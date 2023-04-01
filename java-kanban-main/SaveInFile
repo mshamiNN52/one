@@ -1,0 +1,10 @@
+id,type,name,status,description,epic
+0,null,Zadacha1,NEW,Sdelat,
+0,null,user,IN_PROGRES,one,
+1,null,user2,IN_PROGRES,one2,
+0,null,user,IN_PROGRES,one,
+1,null,user2,IN_PROGRES,one2,
+0,EPIC,Задача,IN_PROGRES,Задача,
+2,EPIC,Задача2,NEW,Задача2,
+
+[]
